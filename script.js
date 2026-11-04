@@ -30,10 +30,12 @@ setInterval(updateClock,1000);
 
 const categories={
   1:{title:'VI / 品牌视觉',files:[
+    {src:'csadi-exhibition-2022-1.png',title:'中南院 2022 新年展陈',page:1,pages:2},
+    {src:'csadi-exhibition-2022-2.png',title:'中南院 2022 新年展陈',page:2,pages:2},
     {src:'csadi-water-bottle-1.png',title:'中南院矿泉水包装',page:1,pages:3},
     {src:'csadi-water-bottle-2.jpg',title:'中南院矿泉水包装',page:2,pages:3},
     {src:'csadi-water-bottle-3.jpg',title:'中南院矿泉水包装',page:3,pages:3}
-  ],projectCount:1},
+  ],projectCount:2},
   2:{title:'出版物设计',files:[
     {src:'csadi-65th-stamp-book.png',title:'2017年中南院65周年纪念邮册'},
     {src:'armenia-chinese-school-brochure.png',title:'亚美尼亚中文学校启动仪式宣传折页'},
@@ -50,10 +52,8 @@ const categories={
     {src:'design-exchange-poster.jpg',title:'设计交流分享系列活动'},
     {src:'csadi-architecture-exhibition-board.jpg',title:'CSADI 建筑艺术之旅展板'},
     {src:'csadi-new-year-2021-kv.png',title:'CSADI 2021 新年活动 KV'},
-    {src:'csadi-exhibition-2022-1.png',title:'中南院 2022 新年展陈',page:1,pages:2},
-    {src:'csadi-exhibition-2022-2.png',title:'中南院 2022 新年展陈',page:2,pages:2},
     {src:'csadi-national-day-2026.jpg',title:'中南院 2026 国庆海报'}
-  ],projectCount:8},
+  ],projectCount:7},
   4:{title:'传媒推广',files:[
     {src:'toefl-campaign.png',title:'小托福推广海报'},
     {src:'pbl-campaign.png',title:'线下 PBL 活动推广'},
