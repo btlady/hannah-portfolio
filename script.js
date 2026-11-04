@@ -80,8 +80,63 @@ const categories={
     {src:'civilization-mindmap-19.jpg',title:'得到《一起看文明》思维导图',page:19,pages:19}
   ],projectCount:5},
   6:{title:'产品包装',files:[
-    {src:'seafood-packaging-collage.jpg',title:'海产类包装盒'}
-  ],projectCount:1},
+  {
+    "src": "seafood-packaging-collage.jpg",
+    "title": "海产类包装盒"
+  },
+  {
+    "src": "seafood-bag-01.webp",
+    "title": "马面鱼包装设计",
+    "page": 1,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-02.webp",
+    "title": "马面鱼包装设计",
+    "page": 2,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-03.webp",
+    "title": "马面鱼包装设计",
+    "page": 3,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-04.webp",
+    "title": "墨鱼仔包装设计",
+    "page": 1,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-05.webp",
+    "title": "墨鱼仔包装设计",
+    "page": 2,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-07.webp",
+    "title": "墨鱼仔包装设计",
+    "page": 3,
+    "pages": 3
+  },
+  {
+    "src": "seafood-bag-06.webp",
+    "title": "章鱼包装设计",
+    "page": 1,
+    "pages": 2
+  },
+  {
+    "src": "seafood-bag-09.webp",
+    "title": "章鱼包装设计",
+    "page": 2,
+    "pages": 2
+  },
+  {
+    "src": "seafood-bag-08.webp",
+    "title": "虾仁包装设计"
+  }
+],projectCount:5},
   5:{title:'AIGC',files:[
     {src:'aigc-passing-through-life.mp4',poster:'aigc-passing-through-life-poster.jpg',title:'路过人间',video:true},
     {src:'aigc-star-river-ferryman.mp4',poster:'aigc-star-river-ferryman-poster.jpg',title:'星河摆渡人',video:true}
