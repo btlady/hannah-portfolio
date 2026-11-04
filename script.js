@@ -32,12 +32,8 @@ const categories={
   1:{title:'VI / 品牌视觉',files:[
     {src:'csadi-water-bottle-1.png',title:'中南院矿泉水包装',page:1,pages:3},
     {src:'csadi-water-bottle-2.jpg',title:'中南院矿泉水包装',page:2,pages:3},
-    {src:'csadi-water-bottle-3.jpg',title:'中南院矿泉水包装',page:3,pages:3},
-    {src:'octopus-package-1.jpg',title:'章鱼食品包装',page:1,pages:4},
-    {src:'octopus-package-2.jpg',title:'章鱼食品包装',page:2,pages:4},
-    {src:'octopus-package-3.jpg',title:'章鱼食品包装',page:3,pages:4},
-    {src:'octopus-package-4.jpg',title:'章鱼食品包装',page:4,pages:4}
-  ],projectCount:2},
+    {src:'csadi-water-bottle-3.jpg',title:'中南院矿泉水包装',page:3,pages:3}
+  ],projectCount:1},
   2:{title:'出版物设计',files:[
     {src:'csadi-65th-stamp-book.png',title:'2017年中南院65周年纪念邮册'},
     {src:'armenia-chinese-school-brochure.png',title:'亚美尼亚中文学校启动仪式宣传折页'},
@@ -84,8 +80,12 @@ const categories={
     {src:'civilization-mindmap-19.jpg',title:'得到《一起看文明》思维导图',page:19,pages:19}
   ],projectCount:5},
   6:{title:'产品包装',files:[
-    {src:'seafood-packaging-collage.jpg',title:'海产类包装盒'}
-  ],projectCount:1},
+    {src:'seafood-packaging-collage.jpg',title:'海产类包装盒'},
+    {src:'octopus-package-1.jpg',title:'章鱼食品包装',page:1,pages:4},
+    {src:'octopus-package-2.jpg',title:'章鱼食品包装',page:2,pages:4},
+    {src:'octopus-package-3.jpg',title:'章鱼食品包装',page:3,pages:4},
+    {src:'octopus-package-4.jpg',title:'章鱼食品包装',page:4,pages:4}
+  ],projectCount:2},
   5:{title:'AIGC',files:[
     {src:'aigc-passing-through-life.mp4',poster:'aigc-passing-through-life-poster.jpg',title:'路过人间',video:true},
     {src:'aigc-star-river-ferryman.mp4',poster:'aigc-star-river-ferryman-poster.jpg',title:'星河摆渡人',video:true}
