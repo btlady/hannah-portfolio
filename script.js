@@ -127,7 +127,7 @@ const categories={
     "pages": 2
   },
   {
-    "src": "seafood-bag-09.webp",
+    "src": "octopus-segments-packaging.jpg",
     "title": "章鱼包装设计",
     "page": 2,
     "pages": 2
