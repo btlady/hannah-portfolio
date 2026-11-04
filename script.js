@@ -44,6 +44,7 @@ const categories={
     {src:'conference-handbook-2019.jpg',title:'2019 会议手册'}
   ],projectCount:5},
   3:{title:'KV / 活动视觉',files:[
+    {src:'csadi-70th-anniversary-kv.jpg',title:'中南建筑设计院70周年庆主KV'},
     {src:'architecture-exhibition-poster.png',title:'第三届全国优秀建筑设计项目作品展'},
     {src:'csadi-choir-poster.jpg',title:'2019 中南院合唱比赛'},
     {src:'design-exchange-poster.jpg',title:'设计交流分享系列活动'},
@@ -52,7 +53,7 @@ const categories={
     {src:'csadi-exhibition-2022-1.png',title:'中南院 2022 新年展陈',page:1,pages:2},
     {src:'csadi-exhibition-2022-2.png',title:'中南院 2022 新年展陈',page:2,pages:2},
     {src:'csadi-national-day-2026.jpg',title:'中南院 2026 国庆海报'}
-  ],projectCount:7},
+  ],projectCount:8},
   4:{title:'传媒推广',files:[
     {src:'toefl-campaign.png',title:'小托福推广海报'},
     {src:'pbl-campaign.png',title:'线下 PBL 活动推广'},
