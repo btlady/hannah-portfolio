@@ -83,6 +83,9 @@ const categories={
     {src:'civilization-mindmap-18.jpg',title:'得到《一起看文明》思维导图',page:18,pages:19},
     {src:'civilization-mindmap-19.jpg',title:'得到《一起看文明》思维导图',page:19,pages:19}
   ],projectCount:5},
+  6:{title:'产品包装',files:[
+    {src:'seafood-packaging-collage.jpg',title:'海产类包装盒'}
+  ],projectCount:1},
   5:{title:'AIGC',files:[
     {src:'aigc-passing-through-life.mp4',poster:'aigc-passing-through-life-poster.jpg',title:'路过人间',video:true},
     {src:'aigc-star-river-ferryman.mp4',poster:'aigc-star-river-ferryman-poster.jpg',title:'星河摆渡人',video:true}
